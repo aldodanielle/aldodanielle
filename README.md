@@ -22,3 +22,15 @@ Here are some ideas to get you started:
 - [Linkedin](https://www.linkedin.com/in/aldodanielle/)
 - [X -> Twitter]()
 - [Instagram]()
+
+<!-- Agregar imagenes --> 
+### Languages and Tools
+- Java
+- JavaScript
+- PHP
+- HTML
+- CSS
+- SQL
+- Python
+- Docker
+- 
