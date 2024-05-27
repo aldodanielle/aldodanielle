@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 ### Languages and Tools
 - Java
 - JavaScript
-- PHP
+- ![PHP](https://es.wikipedia.org/wiki/Archivo:PHP-logo.svg)
 - HTML
 - CSS
 - SQL
