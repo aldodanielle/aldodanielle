@@ -1,6 +1,6 @@
 ## 👋Hi, I'm Aldo Danielle 🌎
 
-Backend Developer
+Backend Developer, México
 <!--
 **aldodanielle/aldodanielle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,3 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- Agregar imagenes --> 
+### Connect with me
+- [linkedin](https://www.linkedin.com/in/aldodanielle/)
