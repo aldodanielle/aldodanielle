@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <!-- Agregar imagenes --> 
 ### Languages and Tools
 - Java
-- JavaScript
+- ![JavaScript](https://www.google.com/search?sa=X&sca_esv=34de302c3e752e49&sca_upv=1&biw=1029&bih=993&q=JavaScript&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqm6CEwVcb0hZP6BxKtkDjRUPpUj3L1ofsoB0OSUUknvbrxJUMHe3-Uhxk-ODjvafVlI3gLRWvFENEPE16zLhWMj0LmSYrDCwEOMY4WluZPbB7cZ5-Iy4nN5gOO0F5KIpCCCnQ65EaPktG--mO2CwXE2Pw9TmdUs1xp0R49k5HeaspXUBvWU-cUyl8yTyWfczgPOKzOHtsdYIS5aAM-ciauDsz2lLkyoehci4tXEguKkyBxupCpObVkasLMIthn-h6M9vL6zM%3D&ved=2ahUKEwiT3emo-K6GAxV0JkQIHTiFBW8QxA16BAheEAU)
 - ![PHP](https://es.wikipedia.org/wiki/Archivo:PHP-logo.svg)
 - HTML
 - CSS
