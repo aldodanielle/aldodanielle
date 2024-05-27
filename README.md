@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 <!-- Agregar imagenes --> 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/aldodanielle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  height="30" /></a> &nbsp;
-	<a href="https://twitter.com/aldodanille_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" /></a>&nbsp;
-	<a href="https://instagram.com/aldodanielle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/aldodanielle"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  height="30" /></a> &nbsp;
+<a href="https://twitter.com/aldodanielle_"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" /></a>&nbsp;
+<a href="https://instagram.com/aldodanielle" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" /></a>&nbsp;
 </p>
 
 <!-- Agregar imagenes --> 
