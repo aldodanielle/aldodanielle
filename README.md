@@ -18,24 +18,22 @@ Here are some ideas to get you started:
 -->
 
 <!-- Agregar imagenes --> 
-### Connect with me
+<h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/aldodanielle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="felipeelia" height="30" /></a> &nbsp;
 	<a href="https://twitter.com/aldodanille_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="felipe_elia" height="30" /></a>&nbsp;
 	<a href="https://instagram.com/aldodanielle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="felipe.elia" height="30" /></a>&nbsp;
 </p>
-- [Linkedin](/)
-- [X -> Twitter]()
-- [Instagram]()
 
 <!-- Agregar imagenes --> 
-### Languages and Tools
-- Java
-- ![JavaScript](https://www.google.com/search?sa=X&sca_esv=34de302c3e752e49&sca_upv=1&biw=1029&bih=993&q=JavaScript&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqm6CEwVcb0hZP6BxKtkDjRUPpUj3L1ofsoB0OSUUknvbrxJUMHe3-Uhxk-ODjvafVlI3gLRWvFENEPE16zLhWMj0LmSYrDCwEOMY4WluZPbB7cZ5-Iy4nN5gOO0F5KIpCCCnQ65EaPktG--mO2CwXE2Pw9TmdUs1xp0R49k5HeaspXUBvWU-cUyl8yTyWfczgPOKzOHtsdYIS5aAM-ciauDsz2lLkyoehci4tXEguKkyBxupCpObVkasLMIthn-h6M9vL6zM%3D&ved=2ahUKEwiT3emo-K6GAxV0JkQIHTiFBW8QxA16BAheEAU)
-- ![PHP](https://es.wikipedia.org/wiki/Archivo:PHP-logo.svg)
-- HTML
-- CSS
-- SQL
-- Python
-- Docker
-- 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" height="30" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="30" /></a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" height="30" /></a>
+
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="30" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="30" /></a>
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" height="30" /></a>
+<img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" height="30" /></a>
+</p> 
