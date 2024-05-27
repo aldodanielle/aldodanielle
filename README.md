@@ -19,4 +19,6 @@ Here are some ideas to get you started:
 
 <!-- Agregar imagenes --> 
 ### Connect with me
-- [linkedin](https://www.linkedin.com/in/aldodanielle/)
+- [Linkedin](https://www.linkedin.com/in/aldodanielle/)
+- [X -> Twitter]()
+- [Instagram]()
