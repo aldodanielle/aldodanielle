@@ -41,3 +41,12 @@ Here are some ideas to get you started:
 	<img src="https://cdn-icons-png.flaticon.com/128/6124/6124995.png" alt="linux" height="30" /></a>
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" height="30" /></a>
 </p> 
+
+
+<details><summary>GitHub Stats</summary>
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=aldodanielle&show_icons=true&theme=dark&locale=en" alt="aldodanielle" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aldodanielle&theme=dark" alt="aldodanielle" /> |
+| :---: | :---: |
+
+| <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aldodanielle&show_icons=true&theme=dark&locale=en&layout=compact" alt="aldodanielle" /> |
+| :---: |
