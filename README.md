@@ -31,12 +31,16 @@ Here are some ideas to get you started:
 <!-- Agregar imagenes --> 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-	<img src="https://cdn-icons-png.flaticon.com/128/5968/5968282.png" alt="php" height="30" /></a>
- 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" height="30" /></a>
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="30" /></a>
+	<img src="https://cdn-icons-png.flaticon.com/128/226/226777.png" alt="java" height="30" /></a>
+	<img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" alt="javascript" height="30" /></a>
+ 	<img src="https://cdn-icons-png.flaticon.com/128/5968/5968332.png" alt="php" height="30" /></a>
+  	<img src="https://cdn-icons-png.flaticon.com/128/5968/5968267.png" alt="html5" height="30" /></a>
+   	<img src="https://cdn-icons-png.flaticon.com/128/5968/5968242.png" alt="css" height="30" /></a>
+   	<img src="https://cdn-icons-png.flaticon.com/128/919/919825.png" alt="nodejs" height="30" /></a>
+	<img src="https://cdn-icons-png.flaticon.com/128/2772/2772128.png" alt="sql" height="30" /></a>
+ 	<img src="https://cdn-icons-png.flaticon.com/128/4494/4494740.png" alt="git" height="30" /></a>
+	<img src="https://cdn-icons-png.flaticon.com/128/873/873107.png" alt="azure" height="30" /></a>
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" height="30" /></a>
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="30" /></a>
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="30" /></a>
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" height="30" /></a>
+	
 	<img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" height="30" /></a>
 </p> 
