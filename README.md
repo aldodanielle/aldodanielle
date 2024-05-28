@@ -7,8 +7,8 @@ Backend Developer, México
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on ... remediations 
+- 🌱 I’m currently learning ... new technologies in JS
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 	<a href="https://www.linkedin.com/in/aldodanielle"><img align="center" src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png"  height="30" /></a>
 	<a href="https://twitter.com/aldodanielle_"><img align="center" src="https://cdn-icons-png.flaticon.com/128/4494/4494477.png" height="30" /></a>
 	<a href="https://instagram.com/aldodanielle" ><img align="center" src="https://cdn-icons-png.flaticon.com/128/2111/2111463.png" height="30" /></a>
-	<a href="mailto:aldodanielle@outlook.com ><img align="center" src="https://cdn-icons-png.flaticon.com/128/732/732223.png" height="30" /></a>
+	<a href="mailto:aldodanielle@outlook.com"><img align="center" src="https://cdn-icons-png.flaticon.com/128/732/732223.png" height="30" /></a>
 </p>
 
 <!-- Agregar imagenes --> 
