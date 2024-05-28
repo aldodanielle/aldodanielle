@@ -20,11 +20,10 @@ Here are some ideas to get you started:
 <!-- Agregar imagenes --> 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/aldodanielle"><img align="center" src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png"  height="30" /></a>;
-<!--
-<a href="https://twitter.com/aldodanielle_"><img align="center" src="https://cdn-icons-png.flaticon.com/128/5968/5968830.png" height="30" /></a>&nbsp;
-<a href="https://instagram.com/aldodanielle" ><img align="center" src="https://cdn-icons-png.flaticon.com/128/2111/2111463.png" height="30" /></a>&nbsp;
--->
+	<a href="https://www.linkedin.com/in/aldodanielle"><img align="center" src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png"  height="30" /></a>
+	<a href="https://twitter.com/aldodanielle_"><img align="center" src="https://cdn-icons-png.flaticon.com/128/5968/5968830.png" height="30" /></a>
+	<a href="https://instagram.com/aldodanielle" ><img align="center" src="https://cdn-icons-png.flaticon.com/128/2111/2111463.png" height="30" /></a>
+	<a href="aldodanielle@outlook.com" ><img align="center" src="https://cdn-icons-png.flaticon.com/128/732/732223.png" height="30" /></a>
 </p>
 
 <!-- Agregar imagenes --> 
