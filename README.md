@@ -1,21 +1,22 @@
 ## 👋Hi, I'm Aldo Danielle 🌎
 
 Backend Developer, México
+
 <!--
 **aldodanielle/aldodanielle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ... remediations 
-- 🌱 I’m currently learning ... new technologies in JS
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me: ...
 -->
+
+- 🔭 I’m currently working on remediations
+- 🌱 I’m currently learning AWS
+- 👯 I’m looking to collaborate on Java, JS and PHP
+- 🤔 I’m looking for help with Cybersecurity and web security
+- 💬 Ask me about Java, JS and PHP
+- ⚡ Fun fact: flower cultivation 🌹🌹
+
 
 <!-- Agregar imagenes --> 
 <h3 align="left">Connect with me:</h3>
