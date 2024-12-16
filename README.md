@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Java, JS and PHP
 - 🤔 I’m looking for help with Cybersecurity and web security
 - 💬 Ask me about Java, JS and PHP
-- ⚡ Fun fact: flower cultivation 🌹🌹
+<!-- - ⚡ Fun fact: flower cultivation 🌹🌹 -->
 
 
 <!-- Agregar imagenes --> 
